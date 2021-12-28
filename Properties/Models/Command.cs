@@ -7,7 +7,7 @@ namespace Commander.Models
     {
         public int Id { get; set; }
         [Required]
-        [Display(Name = "How To")]
+         [Display(Name = "How To")]
         public string HowTo { get; set; }
         [Required]
         public string Line { get; set; }

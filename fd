@@ -1,0 +1,53 @@
+[33mcommit 7e6fa3a998b4783f7e16482775694f5d65b3145d[m[33m ([m[1;36mHEAD -> [m[1;32mdto[m[33m, [m[1;31morigin/dotnet6[m[33m, [m[1;32mdotnet6[m[33m)[m
+Author: Shahid Ghafoor <ShahidG@live.co.uk>
+Date:   Tue Dec 14 01:40:41 2021 +0000
+
+    upgrade to .net6
+
+[33mcommit aaaddefb7d2db4f222a8aca6ebe57ff5a2a53ef2[m[33m ([m[1;31morigin/entityFramework_SQL[m[33m, [m[1;32mentityFramework_SQL[m[33m)[m
+Author: Shahid Ghafoor <ShahidG@live.co.uk>
+Date:   Tue Dec 14 00:50:17 2021 +0000
+
+    Wired entity frame work with repository pattern
+
+[33mcommit c6c453210751398cfb3fef676c7b8627a6aeadbc[m
+Author: Shahid Ghafoor <ShahidG@live.co.uk>
+Date:   Tue Dec 14 00:49:07 2021 +0000
+
+    Wired enttity frame work with repository pattern
+
+[33mcommit 6dc0581a00dab70a0f3dcbb05a58b65f658f035e[m
+Author: Shahid Ghafoor <ShahidG@live.co.uk>
+Date:   Tue Dec 14 00:30:21 2021 +0000
+
+    Added SQL db removed mock and added repo class
+
+[33mcommit eec74a8c23494522b9dd5b20b925509d234ad1f0[m[33m ([m[1;31morigin/finaltest[m[33m, [m[1;32mfinaltest[m[33m)[m
+Author: Shahid Ghafoor <ShahidG@live.co.uk>
+Date:   Wed Dec 8 00:12:50 2021 +0000
+
+    addedAFinalPara
+
+[33mcommit 690f61ef1deaa250668119fe3a655fd034235777[m[33m ([m[1;31morigin/test2[m[33m)[m
+Author: Shahid Ghafoor <ShahidG@live.co.uk>
+Date:   Tue Dec 7 23:56:07 2021 +0000
+
+    adding shahid.html
+
+[33mcommit 4dfdfb4db5a071a5720bf8222e8461f2c8072863[m[33m ([m[1;31morigin/testingAPush[m[33m, [m[1;32mtestingAPush[m[33m)[m
+Author: Shahid Ghafoor <ShahidG@live.co.uk>
+Date:   Tue Dec 7 22:54:24 2021 +0000
+
+    addedRepo added Routing added Dependency injection
+
+[33mcommit 29f324abfabacf214199e8b8a4faeb8eda3dee26[m[33m ([m[1;31morigin/addingModels[m[33m, [m[1;32maddingModels[m[33m)[m
+Author: Shahid Ghafoor <ShahidG@live.co.uk>
+Date:   Tue Dec 7 20:10:03 2021 +0000
+
+    addingTestModel
+
+[33mcommit bd6abe814d9fb74887c0023c8d49c6359017d7a5[m
+Author: Shahid Ghafoor <ShahidG@live.co.uk>
+Date:   Tue Dec 7 19:25:56 2021 +0000
+
+    initialised project for Commander
