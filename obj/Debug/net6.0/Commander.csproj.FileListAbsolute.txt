@@ -58,3 +58,9 @@ C:\Users\shahi\ytb\Commander\obj\Debug\net6.0\Commander.dll
 C:\Users\shahi\ytb\Commander\obj\Debug\net6.0\ref\Commander.dll
 C:\Users\shahi\ytb\Commander\obj\Debug\net6.0\Commander.pdb
 C:\Users\shahi\ytb\Commander\obj\Debug\net6.0\Commander.genruntimeconfig.cache
+C:\Users\shahi\ytb\Commander\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\shahi\ytb\Commander\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\shahi\ytb\Commander\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\shahi\ytb\Commander\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\shahi\ytb\Commander\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shahi\ytb\Commander\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
